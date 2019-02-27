@@ -1,7 +1,7 @@
 **subject**
 =========================
 
-Mahmoud Salama Salama Ali
+Mahmoud Salama Salama Ali  
 *lvl* `3`  Software Engineering
 
-[the priject Link](https://github.com/mahmoudalee/Corsi)
+[The project Link](https://github.com/mahmoudalee/Corsi)
